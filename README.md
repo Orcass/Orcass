@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orcass" alt="orcass" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/orcass" target="blank"><img src="https://img.shields.io/twitter/follow/orcass?logo=twitter&style=for-the-badge" alt="orcass" /></a> </p>
+
 - 🔭 I’m currently working on **Bot discord DDOS**
 
 - 🌱 I’m currently learning **Fullstack**
