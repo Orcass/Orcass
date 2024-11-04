@@ -1,6 +1,6 @@
 # Orcass
 
-![Header](https://img.shields.io/badge/Name-Orcass-blue?style=flat&logo=github&logoColor=white) ![Age](https://img.shields.io/badge/Age-18-green?style=flat&logo=github&logoColor=white) !
+![Header](https://img.shields.io/badge/Name-Orcass-blue?style=flat&logo=github&logoColor=white) ![Age](https://img.shields.io/badge/Age-18-green?style=flat&logo=github&logoColor=white) 
 
 Hi, I'm Orcass 👋  
 A passionate developer with a deep interest in technology and coding. I love exploring new technologies and building innovative projects. Below is a brief overview of my skills and interests.
