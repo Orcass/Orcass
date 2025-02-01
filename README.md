@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 An 18-year-old fresh graduate studying at the Open University, he has strong programming skills with five years of experience in various programming languages such as HTML, CSS, JavaScript, PHP, Python, and Pawn for GTA SAMP. His strong passion in technology and cybersecurity led him to be involved in the development of the GTA SAMP server and other innovative projects.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [varel3276@gmail.com](mailto:varel3276@gmail.com)
+* ✉️  You can contact me at [orcasszz@proton.me](mailto:orcasszz@proton.me)
 * 🧠  I'm learning Django
 
 <a href="https://www.x.com/Orcass" target="_blank" rel="noreferrer"><img
